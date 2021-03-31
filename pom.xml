@@ -24,7 +24,7 @@
         <truth.version>1.0</truth.version>
         <testng.version>7.0.0</testng.version>
         <java-client.version>7.2.0</java-client.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
     <dependencies>
         <dependency>
